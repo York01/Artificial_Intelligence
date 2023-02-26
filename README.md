@@ -1,5 +1,5 @@
 # Artificial Intelligence
-Projects and final for **CECS545 Artificial Intelligence** taught by Dr. Yampolskiy in Fall 2021 at the University of Louisville's J.B. Speed School of Engineering.
+Projects and final for **CSE 545 Artificial Intelligence** taught by Dr. Yampolskiy in Fall 2021 at the University of Louisville's J.B. Speed School of Engineering.
 
 Per the syllabus, this course taught how to:
 
