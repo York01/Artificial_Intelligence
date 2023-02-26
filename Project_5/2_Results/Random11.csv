@@ -1,0 +1,2 @@
+Generations,Best GA,Avg. GA,Std Dev GA,Avg. Runtime GA (s),Total Runtime GA (s),Best WOC,Avg. WOC,Std Dev WOC,Avg. Runtime WOC (ms),Total Runtime WOC (s),Elites Used,% Difference,Total Runtime GA+WOC
+20,351.05,351.43,1.15,0.52,5.182544708,351.05,351.05,0,11.3,0.225905895,5,0%,5.408450603

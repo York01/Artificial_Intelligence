@@ -1,0 +1,2 @@
+Generations,Best GA,Avg. GA,Std Dev GA,Vehicles GA,Avg. Runtime GA (s),Total Runtime GA (s),Best WoAC,Avg. WoAC,Std Dev WoAC,Vehicles WoAC,Avg. Runtime WoAC (ms),Total Runtime WoAC (s),Elites Used,% Difference,Total Runtime GA+WoAC
+200,375.28,386.51,7.41,4,1.12,11.22403597831726,491.39,491.39,0.0,4,0.01,0.020978689193725586,5,-0.3093956512470688,11.245014667510986
